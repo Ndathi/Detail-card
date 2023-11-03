@@ -1,3 +1,5 @@
+
+
 .blog-card{
     display: flex;
     flex-direction: column;
@@ -16,6 +18,7 @@
 .lorem-ipsum-dolor{
     margin-top: 1.5em;
     margin-bottom: 1.5em;
+    color: black;
 }
 #medic{
     margin-top: 0.1em;
@@ -60,4 +63,5 @@
   }
   #content{
     padding:1em;
+    background-color: white;
   }
