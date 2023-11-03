@@ -1,0 +1,63 @@
+.blog-card{
+    display: flex;
+    flex-direction: column;
+    width:fit-content;
+    
+    border: solid;
+    border-width: 1.5px;
+    border-color: black;
+   
+}
+.path{
+    height:170px;
+    width: 100%;
+    
+}
+.lorem-ipsum-dolor{
+    margin-top: 1.5em;
+    margin-bottom: 1.5em;
+}
+#medic{
+    margin-top: 0.1em;
+    color: rgb(173, 4, 38);
+    font-weight:800;
+}
+.donate-for-poor{
+    font-size: large;
+    font-weight: bold;
+}
+.rectangle {
+   
+    width: 267px;
+    height: 8px;
+ margin:5px ;
+    background-color: #c7e7df;
+  }
+  .rectangle2 {
+   margin-top: -13px;
+    width: 160px;
+    height: 8px;
+
+    background-color: #04630f;
+  }
+  .text-wrapper-3{
+    display: flex;
+    justify-content: flex-end;
+  }
+  .txt-grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin-top: 1em;
+  }
+  button{
+    margin-top: 10%;
+    width: 40%;
+    padding: 10px;
+    background-color: rgb(173, 4, 38);
+    border: none;
+    color: white;
+    margin-bottom: 20px;
+  }
+  #content{
+    padding:1em;
+  }
